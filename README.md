@@ -39,8 +39,7 @@ C • C++ • Python, java
 ### 🗳️ Online Voting System
 - Web-based system for students to vote for president  
 - Built using **PHP, MySQL, HTML, CSS**  
-- 🔗 GitHub Repo: https://github.com/your-username/online-voting-system  
-- 🔗 Live Demo: *(add link if hosted)*  
+- 🔗 GitHub Repo: https://github.com/your-username/online-voting-system   
 
 ---
 
@@ -58,7 +57,7 @@ C • C++ • Python, java
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/your-profile  
+- 💼 LinkedIn: https://splendorous-biscotti-4c017f.netlify.app/ 
 - 🖥️ Portfolio: https://splendorous-biscotti-4c017f.netlify.app/  
 
 ---
